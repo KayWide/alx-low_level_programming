@@ -7,7 +7,6 @@
  *@c: classifies lowercase character
  *Return: 1 if c is lowercase. Otherwise 0.
  */
-
 int _islower(int c)
 {
 	if islower(c)
@@ -18,4 +17,4 @@ int _islower(int c)
 	{
 	return (0);
 	}
-}                
+}            
