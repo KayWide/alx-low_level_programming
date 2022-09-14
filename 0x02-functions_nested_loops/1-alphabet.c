@@ -18,5 +18,5 @@ char x;
 
 	}
 
- _putchar('\n');
+_putchar('\n');
 }
