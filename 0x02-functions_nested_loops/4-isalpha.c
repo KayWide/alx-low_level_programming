@@ -8,9 +8,11 @@
  *
  *Return: 1 if c is a letter, lowercase or uppercase else 0.
  */
+
 int _isalpha(int c)
+
 {
-	if isalpha(c);
+	if isalpha(c)
 	return(1);
 	
 	else
