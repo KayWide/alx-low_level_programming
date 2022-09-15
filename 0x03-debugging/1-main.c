@@ -1,18 +1,18 @@
 /**
- * * main - causes an infinite loop
- * * Return: 0
- * */
+ * main - causes an infinite loop
+ * Return: 0
+ */
 
 int main(void)
 {
-int i;
+	int i;
 
 	printf("Infinite loop incoming :(\n");
 	
 	i = 0;
 
 /**
- * code that causes infinite loop
+ * comment out infinite loop
  * while (i < 10)
  * {
  * putchar(i);
