@@ -1,2 +1,2 @@
- A Repository containing projects on static libraries
+A repository on static libraries
 
