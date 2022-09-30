@@ -2,16 +2,16 @@
 #include "main.h"
 
 /**
-* main - prints name followed by new line
+* main - prints the name of the file followed by a new line
 * @argc: argument count
-* @argv: argument string
-* return - always zero
+* @argv: arguments passed to main as an array of strings
+* return: 0
 */
 
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
 	(void) argc;
 	printf("%s\n", argv[0]);
 
-	return 0;
+	return (0);
 }
